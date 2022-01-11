@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Kwangmin-Kim&fontSize=50)
 ### Hi there 👋
-I'm Kwangmin Kim. I want to write some better code.
+I'm Kwangmin Kim.
+I want to write some better code.
 
 <hr>
 
