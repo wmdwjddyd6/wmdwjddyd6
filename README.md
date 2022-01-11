@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kwangmin-Kim&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Kwangmin-Kim&fontSize=50)
 ### Hi there 👋
 I'm Kwangmin Kim. 
 
 <hr>
 
-#### 💻 Tech Stack 💻 
+#### 💻 Tech Stack
 - Language <br><br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,5 +30,5 @@ I'm Kwangmin Kim.
 
 <hr>
 
-#### Github stats
+#### 📝Github stats
 ![wmdwjddyd6's github stats](https://github-readme-stats.vercel.app/api?username=wmdwjddyd6&show_icons=true)
