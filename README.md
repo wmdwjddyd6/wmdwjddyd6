@@ -34,5 +34,5 @@ I'm Kwangmin Kim.
 
 <hr>
 
-#### 📝Github stats
+#### 📝Github Stats
 ![wmdwjddyd6's github stats](https://github-readme-stats.vercel.app/api?username=wmdwjddyd6&show_icons=true)
